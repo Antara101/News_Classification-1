@@ -25,7 +25,7 @@ SECRET_KEY = 'd2flbg9z6!(v_rz1la(3+=b15uz!d&4u#!x&g#w=fxs+mp10m%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['newsclassification.pythonanywhere.com']
+ALLOWED_HOSTS = [ ]
 
 
 # Application definition
